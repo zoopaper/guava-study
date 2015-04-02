@@ -7,4 +7,9 @@
 /src/main/webapp/user
 /src/main/webapp/news
 /logs
-/src/main/webapp/elewordIndex
+.project
+*.iml
+*.ipr
+*.iws
+.idea
+target
